@@ -1,5 +1,0 @@
-Ao longo deste ano na matéria de Programação Orientada a Objetos, consegui absorver uma base muito sólida sobre como transformar problemas do mundo real em código estruturado por meio de classes e objetos. 
-Compreendi o funcionamento dos quatro pilares fundamentais da POO, encapsulamento, herança, polimorfismo e abstração, o que inicialmente parecia bastante abstrato, mas hoje faz muito sentido na hora de programar. 
-Com isso, percebi uma melhora significativa na minha lógica de programação e, principalmente, na organização dos meus projetos, deixando de fazer códigos repetitivos e criando soluções fáceis de dar manutenção,
-além de ter ganhado muito mais autonomia para identificar e corrigir erros no código. Para 2027, minha principal meta é tirar esse conhecimento do papel e aplicá-lo no desenvolvimento de um projeto completo do zero, 
-como um sistema de gerenciamento ou um jogo simples, buscando também aprender a integrar interfaces gráficas e praticar ainda mais a resolução de problemas para chegar ao terceiro ano com mais confiança na programação.
